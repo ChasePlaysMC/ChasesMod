@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class Testing {
 
 	public int x = 10;
